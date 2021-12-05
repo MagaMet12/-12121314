@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Beastly&family=Rubik+Mono+One&display=swap');
+
+.test1 {
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+    color: aqua;
+    font-size: 40px;
+}
+
+.test2 {
+    font-family: 'Rubik Beastly', cursive;
+    font-weight: 400;
+    color: bisque;
+    font-size: 30px;
+}
+
+.test3 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: 400;
+    color: coral;
+    font-size: 20px;
+}
